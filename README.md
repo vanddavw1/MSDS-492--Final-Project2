@@ -1,5 +1,5 @@
 # MSDS-492—Final Project 
-Checkpoint C files
+Final Report and Presentation and Checkpoint C files
 ### Code overview for Final Project - MSDS 492- David Van Dyke
 
 The markdown section in the *.ipynb files explains the function of each of the code block.  This README file contains a quick background on each of the sections.  If you have any trouble running the code, please reach out to let me know.  Thanks Dave Van Dyke
